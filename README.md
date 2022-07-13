@@ -6,10 +6,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Impact&duration=2500&color=6A2B8D&background=62FF0900&center=true&lines=This+is+Noxius+Dox+!+%F0%9F%94%8E)](https://git.io/typing-svg)
 
 
-<h1 align="center">Instricutions:</h1>
+<h3 align="left">Instructions:</h3>
 Open Install.bat and enjoy
 
-<h1 align="center">We:</h1>
+<h3 align="left">We:</h3>
 
 - 🐍 Our [Discord Server](https://discord.gg/vCGcPjVC)
 
