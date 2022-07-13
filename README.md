@@ -9,6 +9,8 @@
 <h1 align="center">Instricutions:</h1>
 Open Install.bat and enjoy
 
+<h1 align="center">We:</h1>
+
 - 🐍 Our [Discord Server](https://discord.gg/vCGcPjVC)
 
 - 🔰Tool developed in **Python and Batchfile**
