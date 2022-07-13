@@ -3,6 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Impact&duration=2500&color=F79E71&background=62FF0900&center=true&lines=We+are+Noxius+!+%F0%9F%AA%90)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Impact&duration=2500&color=6A2B8D&background=62FF0900&center=true&lines=This+is+Noxius+Dox+!+%F0%9F%94%8E)](https://git.io/typing-svg)
 
+
+<h1 align="center">Instricutions:</h1>
+Open Install.bat and enjoy
+
 - 🐍 Our [Discord Server](https://discord.gg/vCGcPjVC)
 
 - 🔰Tool developed in **Python and Batchfile**
@@ -19,10 +23,10 @@
 
 - 🐁Simple tool to **DOX**
 
-<h3 align="left">Connect with we:</h3>
+<h3 align="left">Discord Server:</h3>
 <p align="left">
 <a href="https://discord.gg/vCGcPjVC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vCGcPjVC" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Develop in:</h3>
 <p align="left"> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
