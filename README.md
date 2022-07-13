@@ -1,6 +1,7 @@
 <h1 align="center">Hello, We are Noxius</h1>
 <h3 align="center">The owners are fran_afp_ and SadicX</h3>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Impact&duration=2500&color=F79E71&background=62FF0900&center=true&lines=We+are+Noxius+!+%F0%9F%AA%90)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Impact&duration=2500&color=6A2B8D&background=62FF0900&center=true&lines=This+is+Noxius+Dox+!+%F0%9F%94%8E)](https://git.io/typing-svg)
 
 
